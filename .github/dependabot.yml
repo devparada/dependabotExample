@@ -9,6 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "18:16"
+      time: "21:19"
+      timezone: "Europe/Madrid"
     commit-message:
       prefix: "mvn"
