@@ -1,15 +1,14 @@
 <project>
  <modelVersion>4.0.0</modelVersion> 
  <groupId>com.devparada</groupId>
-  <artifactId>dependabotExample
-</artifactId> 
+  <artifactId>dependabotExample</artifactId> 
   <version>1.0</version> 
   <!-- Dependencias --> 
   <dependencies>
    <dependency>
     		<groupId>org.springframework.boot</groupId>
-             		<artifactId>spring-boot-starter-web</artifactId> 	
-                    <version>3.30</version>
-                    </dependency> 
-                    </dependencies>
-                    </project>
+      <artifactId>spring-boot-starter-web</artifactId> 	
+      <version>3.30</version>
+    </dependency> 
+   </dependencies>
+</project>
